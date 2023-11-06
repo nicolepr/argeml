@@ -10,7 +10,7 @@
 
 ### Related work
 <ol>
-<li>[Explainable Machine Learning via Argumentation] ([https://xaiworldconference.com/full-programme/](https://www.springerprofessional.de/explainable-machine-learning-via-argumentation/26208920)).</li>
+<li>[Explainable Machine Learning via Argumentation](https://www.springerprofessional.de/explainable-machine-learning-via-argumentation/26208920).</li>
 <li>[Argumentation-based Explainable Machine Learning (ArgEML): a Real-life Use Case on Gynecological Cancer] (https://ceur-ws.org/Vol-3208/paper1.pdf).</li>
 <li>[Integrating Machine Learning with Symbolic Reasoning to Build an Explainable AI Model for Stroke Prediction] (https://ieeexplore.ieee.org/document/8941679).</li>
 <li>[Gorgias-B] (http://gorgiasb.tuc.gr/).</li>
